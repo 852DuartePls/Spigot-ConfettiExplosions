@@ -1,0 +1,4 @@
+explosions:
+  creeper: true
+  tnt: true
+  tnt-minecart: true

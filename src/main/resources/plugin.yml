@@ -1,0 +1,11 @@
+name: $name
+version: '$version'
+main: me.duart.confettiExplosions.ConfettiExplosions
+api-version: '$apiVersion'
+authors: [ $authors ]
+description: $description
+
+commands:
+  confettireload:
+    description: Reloads the config
+    permission: confetti.reload

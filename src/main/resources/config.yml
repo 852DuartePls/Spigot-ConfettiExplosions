@@ -1,0 +1,6 @@
+explosions:
+  creeper: true
+  tnt: true
+  tnt-minecart: true
+  fireball: true
+  ender-crystal: true
